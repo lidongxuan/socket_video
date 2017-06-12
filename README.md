@@ -1,4 +1,5 @@
-### 基于TCP的socket网络传输图片（C++, python）###
+### 基于TCP的socket网络传输视频（C++, python）###
+
 
 ### 一. 概述 ###
 
