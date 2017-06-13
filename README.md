@@ -1,5 +1,6 @@
 ### 基于TCP的socket网络传输视频（C++, python）
 
+可以实现C++ to C++、Python to python、C++ to Python的视频或图像传输。
 
 ### 一. 概述 ###
 
